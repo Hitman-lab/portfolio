@@ -66,7 +66,7 @@ export default class Timeline extends Component {
 										<h3><a href="work.html">Note App</a></h3>
 										<span>React based front end application to keep track of Notes</span>
 										<p className="icon">
-											<span> <a href="https://tranquil-caverns-48892.herokuapp.com/" target="_blank">VIEW <i class="fas fa-eye"></i></a></span>
+											<span> <a href="https://hitman-lab.github.io/ReactNoteApp/" target="_blank">VIEW <i class="fas fa-eye"></i></a></span>
 										</p>
 									</div>
 								</div>
