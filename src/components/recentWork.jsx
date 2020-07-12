@@ -19,7 +19,7 @@ export default class Timeline extends Component {
 					</div> */}
 					<div className="row">
 						<div className="col-md-5 animate-box" data-animate-effect="fadeInLeft">
-							<div className="project" style={{backgroundImage: 'url(images/img-1.png)'}}>
+							<div className="project" style={{backgroundImage: 'url(images/img-1.PNG)'}}>
 								<div className="desc">
 									<div className="con">
 										<h3><a href="work.html">Weather Forcast</a></h3>
@@ -34,7 +34,7 @@ export default class Timeline extends Component {
 							</div>
 						</div>
 						<div className="col-md-5 animate-box" data-animate-effect="fadeInRight">
-							<div className="project"  style={{backgroundImage: 'url(images/img-2.png)'}}>
+							<div className="project"  style={{backgroundImage: 'url(images/img-2.PNG)'}}>
 								<div className="desc">
 									<div className="con">
 										<h3><a href="work.html">Newsletter</a></h3>
@@ -47,7 +47,7 @@ export default class Timeline extends Component {
 							</div>
 						</div>	
                         <div className="col-md-5 animate-box" data-animate-effect="fadeInRight">
-							<div className="project"  style={{backgroundImage: 'url(images/img-3.png)'}}>
+							<div className="project"  style={{backgroundImage: 'url(images/img-3.PNG)'}}>
 								<div className="desc">
 									<div className="con">
 										<h3><a href="work.html">TODO List</a></h3>
